@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Useful Links
 
-- Solution URL: [Checkout Repository](https://github.com/beRajeevKumar/Community_Card.git).
-- Live Site URL: [Visit Live](https://communitycard-rajeev.netlify.app/).
+- Solution URL: [Checkout Repository](https://github.com/beRajeevKumar/Social_Proof.git).
+- Live Site URL: [Visit Live](https://socialproof-rajeev.netlify.app/).
 - Blog Post URL: [Read Blog](https://www.iamrajeev.me/blog/qr-code-component-using-html-and-css).
 
 ## My process
@@ -49,17 +49,23 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned how to use CSS Flexbox to create a responsive layout.I also learned how to use CSS custom properties to create a responsive layout. Explore & Practice media queries to create a responsive layout.
 
-Some code snippets that I am proud of are:
+````html
+Some code snippets that I am proud of are: ```html
+<meta
+  name="description"
+  content="Frontend Mentor Challenge: Social proof section"
+/>
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+<aside class="review">Aside Content</aside>
+````
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+@media (max-width: 400px) {
+  .container {
+    padding: 10px;
+  }
 }
 ```
 
