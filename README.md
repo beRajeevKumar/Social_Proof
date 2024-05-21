@@ -18,7 +18,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
@@ -27,8 +27,6 @@ Users should be able to:
 ### Solution Screenshot
 
 ![Solution Screenshot](./design/desktop-design.jpg)
-
-### Links
 
 ### Useful Links
 
