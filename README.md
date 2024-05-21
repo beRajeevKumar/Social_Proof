@@ -51,15 +51,16 @@ Users should be able to:
 
 I learned how to use CSS Flexbox to create a responsive layout.I also learned how to use CSS custom properties to create a responsive layout. Explore & Practice media queries to create a responsive layout.
 
-````html
-Some code snippets that I am proud of are: ```html
+Some code snippets that I am proud of are:
+
+```html
 <meta
   name="description"
   content="Frontend Mentor Challenge: Social proof section"
 />
 
 <aside class="review">Aside Content</aside>
-````
+```
 
 ```css
 @media (max-width: 400px) {
